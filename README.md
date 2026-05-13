@@ -5,7 +5,6 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-HDFS-yellow?style=for-the-badge&logo=apachehadoop)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Best%20Model-green?style=for-the-badge)
 ![Sklearn](https://img.shields.io/badge/Scikit--Learn-ML-red?style=for-the-badge&logo=scikitlearn)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
 ---
 
