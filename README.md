@@ -1,5 +1,4 @@
-# Distributed-Banking-Analytics-And-ML-System
-# 🏦 Distributed Banking Analytics & ML System for Customer Subscription Prediction
+# Distributed Banking Analytics & ML System for Customer Subscription Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![PySpark](https://img.shields.io/badge/PySpark-3.x-orange?style=for-the-badge&logo=apachespark)
@@ -10,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates an end-to-end **Distributed Machine Learning Pipeline** for banking analytics. Using the **bank.csv** dataset, the system predicts whether a customer will subscribe to a term deposit based on demographic, financial, and campaign interaction data.
 
@@ -18,7 +17,7 @@ The project integrates distributed computing technologies including **Apache Had
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Modern banking institutions generate massive volumes of customer and transaction data every day. Traditional single-machine systems struggle with:
 
@@ -30,7 +29,7 @@ This project solves these challenges using distributed machine learning and big 
 
 ---
 
-## 🗂️ Dataset Information
+##  Dataset Information
 
 | Feature | Description |
 |---|---|
@@ -57,7 +56,7 @@ This project solves these challenges using distributed machine learning and big 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -76,7 +75,7 @@ This project solves these challenges using distributed machine learning and big 
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```
 Bank Dataset (bank.csv)
@@ -98,7 +97,7 @@ Insights & Monitoring
 
 ---
 
-## 📊 Machine Learning Models & Results
+##  Machine Learning Models & Results
 
 ### Traditional ML Models (Scikit-Learn)
 
@@ -120,7 +119,7 @@ Insights & Monitoring
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - ✅ Complete **end-to-end distributed ML pipeline**
 - ✅ **Hadoop HDFS simulation** using Parquet format
@@ -140,28 +139,28 @@ Insights & Monitoring
 
 ```
 📁 Distributed-Banking-Analytics-ML-System
-├── 📓 Distributed_Banking_Analytics_&_ML_System.ipynb
-├── 📊 bank .csv
-├── 🤖 tuned_xgboost_model.pkl
-└── 📄 README.md
+├──  Distributed_Banking_Analytics_&_ML_System.ipynb
+├──  bank .csv
+├──  tuned_xgboost_model.pkl
+└──  README.md
 ```
 
 ---
 
-## ⚡ Real-Time Streaming Results
+##  Real-Time Streaming Results
 
 | Risk Category | Transactions |
 |---|---|
-| Medium Risk 🟡 | 47 |
-| Normal ✅ | 42 |
-| Suspicious 🟠 | 11 |
+| Medium Risk  | 47 |
+| Normal  | 42 |
+| Suspicious  | 11 |
 
 - **81%** of streamed customers showed high subscription potential
 - **11** suspicious transactions detected in real time
 
 ---
 
-## 🔑 Key Insights
+##  Key Insights
 
 - **Call Duration** is the strongest predictor of term deposit subscription
 - **Account Balance** and **Age** significantly influence subscription behavior
@@ -171,7 +170,7 @@ Insights & Monitoring
 
 ---
 
-## 🏃 How to Run
+##  How to Run
 
 ### 1. Clone the Repository
 ```bash
@@ -201,7 +200,7 @@ prediction = model.predict(your_data)
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Deploy model using **Flask or FastAPI** as REST API
 - Integrate **Apache Kafka** for production-grade streaming
@@ -212,7 +211,7 @@ prediction = model.predict(your_data)
 
 ---
 
-## 👤 Author
+##  Author
 
 **Rohan** — Individual Project
 
